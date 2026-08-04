@@ -61,6 +61,16 @@ Build AI systems used by millions.
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dradhikac&theme=react-dark&bg_color=0d0b1e&color=00f0ff&line=8a2be2&point=e056fd&area=true&hide_border=false" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
