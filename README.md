@@ -90,12 +90,12 @@ Build AI systems used by millions.
     <img src="https://img.shields.io/badge/GitHub-dradhikac-181717?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/radhika-d-chougale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-radhika--d--chougale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Radhika_D_Chougale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:dradhikac034@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dradhikac034@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:dcradhika004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dcradhika004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
