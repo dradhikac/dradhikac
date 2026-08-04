@@ -32,6 +32,14 @@ Build AI systems used by millions.
 
 ---
 
+## 🌱 Currently Exploring
+
+🔄 **DSA in Java**  
+🔄 **MySQL Database Management**  
+🔄 **Python Libraries for Data Science**  
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
