@@ -1,13 +1,22 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:E056FD&height=150&section=header&text=✨%20Radhika%20D.%20Chougale%20✨&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
+</h1>
+
 <div align="center">
 
-# ⚡ Radhika D. Chougale
-### **AI & Data Science Engineer**
+  <img src="profile.jpg" width="160" style="border-radius: 50%;" alt="Radhika D. Chougale" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Building+Production+AI+Systems;Machine+Learning+%7C+LLMs+%7C+Computer+Vision;Creating+Impactful+Data-Driven+Solutions)](https://github.com/dradhikac)
+  <br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/dradhikac?style=flat-square&logo=github&color=00F0FF&labelColor=1a1b26)](https://github.com/dradhikac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/)
-[![Email](https://img.shields.io/badge/Email-dcradhika004%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:dcradhika004@gmail.com)
+  <a href="https://github.com/dradhikac">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Engineer;Building+Production+AI+Systems;Machine+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  [![GitHub followers](https://img.shields.io/github/followers/dradhikac?style=flat-square&logo=github&color=00F0FF&labelColor=1a1b26)](https://github.com/dradhikac)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/)
+  [![Email](https://img.shields.io/badge/Email-dcradhika004%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:dcradhika004@gmail.com)
 
 </div>
 
