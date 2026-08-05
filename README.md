@@ -1,76 +1,52 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:E056FD&height=150&section=header&text=✨%20Radhika%20D.%20Chougale%20✨&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%"/>
-</h1>
+<img src="profile.jpg" align="right" width="135" style="border-radius: 50%; margin: 0 0 15px 20px;" alt="Radhika D. Chougale" />
 
-<div align="center">
+# Radhika D. Chougale
+### AI & Data Science Engineer
 
-  <img src="profile.jpg" width="160" style="border-radius: 50%;" alt="Radhika D. Chougale" />
+*Architecting production-grade AI systems, LLM pipelines & intelligent data infrastructure.*
 
-  <br/><br/>
-
-  <a href="https://github.com/dradhikac">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Engineer;Building+Production+AI+Systems;Machine+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  [![GitHub followers](https://img.shields.io/github/followers/dradhikac?style=flat-square&logo=github&color=00F0FF&labelColor=1a1b26)](https://github.com/dradhikac)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/)
-  [![Email](https://img.shields.io/badge/Email-dcradhika004%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:dcradhika004@gmail.com)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/dradhikac?style=flat-square&logo=github&color=0969da&labelColor=1f2328)](https://github.com/dradhikac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/)
+[![Email](https://img.shields.io/badge/Email-dcradhika004%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dcradhika004@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=dradhikac&color=0969da&style=flat-square&label=Views)](https://github.com/dradhikac)
 
 ---
 
-### 💫 About Me
+### ⚡ About & Core Focus
 
-> 🎓 **Data Science Student** passionate about engineering intelligent, scalable AI products.  
-> 🧠 **Specializations:** Machine Learning • LLMs • Computer Vision • Autonomous AI Agents  
-> 🎯 **Ultimate Goal:** Architect robust, production-grade AI systems used by millions worldwide.
-
----
-
-### 🌱 Currently Exploring
-
-- 🧩 **Data Structures & Algorithms** in Java
-- 🗄️ **MySQL Database Architecture** & Query Optimization
-- 📊 **Advanced Python Ecosystem** for Data Science & MLOps
+- 🎓 **Background:** Data Science Student passionate about engineering scalable, real-world AI products.
+- 🧠 **Specializations:** Machine Learning • Autonomous AI Agents • LLM Engineering • Computer Vision
+- 🎯 **Objective:** Building robust, production-grade AI systems and optimized data pipelines.
+- 🌱 **Current Exploration:** DSA in Java • MySQL Architecture & Query Optimization • MLOps
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
+### 🛠️ Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,mongodb,git,opencv,sklearn,tensorflow,pytorch,n8n&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,tensorflow,pytorch,docker,mysql,git,aws,n8n&theme=light" alt="Tech Icons" />
 </a>
 
-<br/><br/>
+<br/>
 
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</div>
 
 ---
 
 ### 🐍 Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
----
+<br/>
 
 <div align="center">
   <sub>Built with ❤️ by Radhika D. Chougale</sub>
