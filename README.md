@@ -1,47 +1,47 @@
-<img src="profile.jpg" align="right" width="135" style="border-radius: 50%; margin: 0 0 15px 20px;" alt="Radhika D. Chougale" />
+<table border="0" width="100%">
+  <tr>
+    <td width="72%" valign="top">
+      <h1>Radhika D. Chougale</h1>
+      <p><b>Data Science Undergrad @ DSATM | AI • ML • Generative AI & LLMs • Agentic AI (n8n)</b></p>
+      <p>Passionate about engineering production-ready AI systems, LLM & RAG pipelines, autonomous perception models, and automated AI workflows.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/"><img src="https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+        <a href="mailto:dcradhika004@gmail.com"><img src="https://img.shields.io/badge/Email-dcradhika004%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
+        <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-107C41?style=flat-square&logo=googlemaps" alt="Location">
+      </p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="profile.jpg" width="130" style="border-radius:50%; border: 2px solid #0A66C2;" alt="Radhika D. Chougale" />
+    </td>
+  </tr>
+</table>
 
-# Radhika D. Chougale
-### AI & Data Science Engineer
+### 🎓 Education
 
-Architecting production-grade AI systems, LLM pipelines, and intelligent data infrastructure.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhika_Chougale-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/radhika-d-chougale-7a2a53294/)
-[![Email](https://img.shields.io/badge/Email-dcradhika004%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dcradhika004@gmail.com)
-
-### About
-
-Data Science Student passionate about engineering real-world AI products. Specializing in machine learning, autonomous AI agents, LLM engineering, and computer vision with a focus on building production-ready AI systems and scalable data pipelines.
-
-**Current Focus:** Data Structures & Algorithms in Java • MySQL Architecture & Query Optimization • MLOps
+- 🏫 **Dayananda Sagar Academy of Technology and Management (DSATM)**
+  - **Degree:** B.E. Computer Science & Engineering (Specialization in Data Science)
+  - **Academic Standing:** **CGPA: 9.23 / 10**
 
 ---
 
-### Technical Skills
+### 🛠️ Technical Skills
 
-- **AI & ML:** PyTorch, TensorFlow, scikit-learn, OpenCV, LangChain
-- **Languages:** Python, Java, SQL
-- **Data & Databases:** MySQL, MongoDB, Pandas, NumPy
-- **Tools & Cloud:** Docker, AWS, Git, n8n, Jupyter
+- **AI, ML & Generative AI:** LLMs, RAG, LangChain, Prompt Engineering, Computer Vision, YOLOv8, OpenCV, Scikit-learn, NumPy, Pandas, Matplotlib
+- **AI Automation & Agentic AI:** n8n Workflows, Capabl Agentic Frameworks
+- **Languages & Core CS:** Python, Java, SQL, R, C | DSA, OOP, DBMS, OS, Computer Networks
+- **Web & Databases:** Streamlit, React.js, Node.js, JSP, Servlets, JDBC, MySQL, MongoDB, Git & GitHub
 
-<br/>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,tensorflow,pytorch,docker,mysql,mongodb,git,aws,n8n&theme=light" alt="Tech Stack Icons" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,r,mysql,mongodb,react,nodejs,git,n8n&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
-
-### Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dradhikac/dradhikac/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br/>
 
 <div align="center">
   <sub>Built by Radhika D. Chougale</sub>
