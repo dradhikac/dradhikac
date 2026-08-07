@@ -16,15 +16,15 @@
   </tr>
 </table>
 
-### 🎓 Education
+### Education
 
-- 🏫 **Dayananda Sagar Academy of Technology and Management (DSATM)**
+- **Dayananda Sagar Academy of Technology and Management (DSATM)**
   - **Degree:** B.E. Computer Science & Engineering (Specialization in Data Science)
   - **Academic Standing:** **CGPA: 9.23 / 10**
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **AI, ML & Generative AI:** LLMs, RAG, LangChain, Prompt Engineering, Computer Vision, YOLOv8, OpenCV, Scikit-learn, NumPy, Pandas, Matplotlib
 - **AI Automation & Agentic AI:** n8n Workflows, Capabl Agentic Frameworks
@@ -44,5 +44,5 @@
 </picture>
 
 <div align="center">
-  <sub>Built by Radhika D. Chougale</sub>
+  <sub>Built by Radhika D Chougale</sub>
 </div>
