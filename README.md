@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=26&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Data+Science+Undergrad;AI+%26+Machine+Learning+Engineer;Generative+AI+%26+LLMs+Specialist;Agentic+AI+%26+n8n+Automation;Problem+Solver" alt="Typing Banner" />
 </p>
 
-- **Computer Science (Data Science)** undergrad at **Dayananda Sagar Academy of Technology & Management (DSATM)** — **CGPA: 9.23 / 10**.
 - Passionate about **Generative AI**, **Large Language Models (LLMs)**, **RAG**, and **Agentic AI** with **n8n** automation workflows.
 - Strong foundation in **Data Structures & Algorithms**, **Python**, **Java**, **SQL**, and Data Engineering.
 - Experienced in Computer Vision (**YOLOv8**, **OpenCV**), Web Apps (**React**, **Node.js**, **Streamlit**), and Databases (**MySQL**, **MongoDB**).
