@@ -14,24 +14,16 @@
   <img src="https://komarev.com/ghpvc/?username=dradhikac&color=ef93c4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="72%" valign="middle">
-      <p>I am <b>Radhika D Chougale</b>, a Data Science undergraduate, software developer, and aspiring AI Engineer.</p>
-      <ul>
-        <li>Currently pursuing a degree in <b>Data Science</b> with an emphasis on software engineering and intelligent systems.</li>
-        <li>Confident working with <b>Python</b>, <b>Java</b>, <b>C++</b>, and <b>R</b>.</li>
-        <li>Experienced in designing and querying relational and document databases with <b>MySQL</b> and <b>MongoDB</b>.</li>
-        <li>Actively exploring <b>Artificial Intelligence & Machine Learning</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>AI agents</b>.</li>
-        <li>Enjoy developing software solutions and exploring practical, real-world applications of data science and AI.</li>
-        <li>Long-term career objective: engineering robust, production-grade solutions as an <b>AI Engineer</b>.</li>
-      </ul>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="profile.jpg" width="140" style="border-radius: 50%; border: 3px solid #EF93C4;" alt="Radhika D Chougale" />
-    </td>
-  </tr>
-</table>
+<p>
+  I am <b>Radhika D Chougale</b>, a Data Science undergraduate, software developer, and aspiring AI Engineer.
+</p>
+
+- Currently pursuing a degree in **Data Science** with an emphasis on software engineering and intelligent systems.
+- Confident working with **Python**, **Java**, **C++**, and **R**.
+- Experienced in designing and querying relational and document databases with **MySQL** and **MongoDB**.
+- Actively exploring **Artificial Intelligence & Machine Learning**, **Retrieval-Augmented Generation (RAG)**, and **AI agents**.
+- Enjoy developing software solutions and exploring practical, real-world applications of data science and AI.
+- Long-term career objective: engineering robust, production-grade solutions as an **AI Engineer**.
 
 <h2 align="center">Tech Stack</h2>
 
