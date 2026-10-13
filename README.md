@@ -6,19 +6,125 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=26&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Data+Science+Undergrad;AI+%26+Machine+Learning+Engineer;Generative+AI+%26+LLMs+Specialist;Agentic+AI+%26+n8n+Automation;Problem+Solver" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=26&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Python+%26+Java+Developer;Aspiring+AI+Engineer;AI%2FML+%26+RAG+Explorer" alt="Typing Banner" />
 </p>
 
-- Passionate about **Generative AI**, **Large Language Models (LLMs)**, **RAG**, and **Agentic AI** with **n8n** automation workflows.
-- Strong foundation in **Data Structures & Algorithms**, **Python**, **Java**, **SQL**, and Data Engineering.
-- Experienced in Computer Vision (**YOLOv8**, **OpenCV**), Web Apps (**React**, **Node.js**, **Streamlit**), and Databases (**MySQL**, **MongoDB**).
-- **Goal:** Engineer production-ready AI products and intelligent data-driven solutions that solve real-world challenges.
-- Always curious, building with purpose, and chasing the next idea worth bringing to life.
+<!-- Note: Profile view counter is powered by external provider komarev.com/ghpvc. It measures cumulative page impressions and may include repeat visits rather than unique visitors. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dradhikac&color=ef93c4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="72%" valign="middle">
+      <p>I am <b>Radhika D Chougale</b>, a Data Science undergraduate, software developer, and aspiring AI Engineer.</p>
+      <ul>
+        <li>Currently pursuing a degree in <b>Data Science</b> with an emphasis on software engineering and intelligent systems.</li>
+        <li>Confident working with <b>Python</b>, <b>Java</b>, <b>C++</b>, and <b>R</b>.</li>
+        <li>Experienced in designing and querying relational and document databases with <b>MySQL</b> and <b>MongoDB</b>.</li>
+        <li>Actively exploring <b>Artificial Intelligence & Machine Learning</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>AI agents</b>.</li>
+        <li>Enjoy developing software solutions and exploring practical, real-world applications of data science and AI.</li>
+        <li>Long-term career objective: engineering robust, production-grade solutions as an <b>AI Engineer</b>.</li>
+      </ul>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="profile.jpg" width="140" style="border-radius: 50%; border: 3px solid #EF93C4;" alt="Radhika D Chougale" />
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,r,mysql,mongodb,react,nodejs,git,github,n8n,linux,bash,postman,figma&perline=15" alt="Tech Stack" />
+</p>
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | Python, Java, C++, R |
+| **Databases** | MySQL, MongoDB |
+| **Areas of Interest** | Artificial Intelligence & Machine Learning, Retrieval-Augmented Generation (RAG), AI Agents, Data Science, Software Development |
+| **Tools & Platforms** | Git, GitHub, Linux, Bash, Postman, Figma |
+
+</div>
+
+<h2 align="center">Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/dradhikac/Integrated-Patient-Care-Management-System">
+          Integrated Patient Care Management System
+        </a>
+      </h3>
+      <p>An end-to-end clinical workflow and hospital management platform integrating outpatient queues, electronic health records (EHR), diagnostic laboratory requisitions, and billing. Features smart priority queue triage, digital prescriptions with QR code verification, and an autonomous Groq LLM appointment concierge.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=openai&logoColor=white" alt="Groq AI" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/dradhikac/rl-adaptive-bus-perception-system">
+          RL Adaptive Bus Perception System
+        </a>
+      </h3>
+      <p>An intelligent perception and decision-making framework for autonomous urban buses featuring 360° multi-camera object detection across five video feeds. Combines adaptive sensor reliability estimation and blind-spot risk scoring with reinforcement learning action policies and safety overrides in an interactive Streamlit dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Rahul08092005/FinSage-AI">
+          FinSage AI
+        </a>
+        <sub>(by Rahul08092005)</sub>
+      </h3>
+      <p>A personal wealth management and budgeting platform combining OCR-driven multi-format document ingestion with LangGraph multi-agent orchestration. Provides automated expense tracking, category budgeting gauges, and multi-perspective financial assistance powered by retrieval-augmented generation (RAG).</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/dradhikac/java-exam-management-system">
+          Java Exam Management System
+        </a>
+      </h3>
+      <p>A console-based university examination management platform engineered with a clean layered architecture and DAO design pattern. Automates student records, attendance tracking, faculty assessment logging, rule-based exam eligibility evaluation, and PDF admit card generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=oracle&logoColor=white" alt="JDBC" />
+        <img src="https://img.shields.io/badge/PDFBox-D22128?style=flat-square&logo=apache&logoColor=white" alt="PDFBox" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">GitHub Activity & Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/dradhikac">
+    <img src="https://github-readme-stats.vercel.app/api?username=dradhikac&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=EF93C4&text_color=FFFFFF" alt="RADHIKA D CHOUGALE's GitHub Stats" />
+  </a>
+  <a href="https://github.com/dradhikac">
+    <img src="https://streak-stats.demolab.com?user=dradhikac&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="RADHIKA D CHOUGALE's GitHub Streak" />
+  </a>
 </p>
 
 <h2 align="center">Contribution Graph</h2>
