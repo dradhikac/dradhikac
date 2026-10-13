@@ -19,7 +19,7 @@
 </p>
 
 - Currently pursuing a degree in **Data Science** with an emphasis on software engineering and intelligent systems.
-- Confident working with **Python**, **Java**, **C++**, and **R**.
+- Confident working with **Python**, **Java**, and **R**.
 - Experienced in designing and querying relational and document databases with **MySQL** and **MongoDB**.
 - Actively exploring **Artificial Intelligence & Machine Learning**, **Retrieval-Augmented Generation (RAG)**, and **AI agents**.
 - Enjoy developing software solutions and exploring practical, real-world applications of data science and AI.
@@ -28,7 +28,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,r,mysql,mongodb,react,nodejs,git,github,n8n,linux,bash,postman,figma&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,r,mysql,mongodb,react,nodejs,git,github,linux,bash,postman,figma&perline=14" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -148,9 +148,7 @@
   </a>
 </p>
 
-<p align="center">
-  See you in the next commit
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer" alt="Waving Footer" />
