@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=26&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Python+%26+Java+Developer;Aspiring+AI+Engineer;AI%2FML+%26+RAG+Explorer" alt="Typing Banner" />
 </p>
 
-<!-- Note: Profile view counter is powered by external provider komarev.com/ghpvc. It measures cumulative page impressions and may include repeat visits rather than unique visitors. -->
+<!-- Note: Profile view counter is powered by visitorbadge.io. It measures cumulative page impressions tracked by the external provider and may not represent unique visitors. -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dradhikac&color=ef93c4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=dradhikac&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=ef93c4&style=flat-square" alt="GitHub Profile Views" />
 </p>
 
 <p>
@@ -31,16 +31,24 @@
   <img src="https://skillicons.dev/icons?i=py,java,cpp,r,mysql,mongodb,react,nodejs,git,github,n8n,linux,bash,postman,figma&perline=15" alt="Tech Stack" />
 </p>
 
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | Python, Java, C++, R |
-| **Databases** | MySQL, MongoDB |
-| **Areas of Interest** | Artificial Intelligence & Machine Learning, Retrieval-Augmented Generation (RAG), AI Agents, Data Science, Software Development |
-| **Tools & Platforms** | Git, GitHub, Linux, Bash, Postman, Figma |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-EF93C4?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-EF93C4?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-EF93C4?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/MySQL-EF93C4?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-EF93C4?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AI%2FML-EF93C4?style=flat-square" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/RAG-EF93C4?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-EF93C4?style=flat-square" alt="AI Agents" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-EF93C4?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-EF93C4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-EF93C4?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-EF93C4?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Postman-EF93C4?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-EF93C4?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 <h2 align="center">Featured Projects</h2>
 
@@ -108,15 +116,14 @@
   </tr>
 </table>
 
-<h2 align="center">GitHub Activity & Stats</h2>
+<h2 align="center">GitHub Achievements</h2>
 
 <p align="center">
-  <a href="https://github.com/dradhikac">
-    <img src="https://github-readme-stats.vercel.app/api?username=dradhikac&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=EF93C4&text_color=FFFFFF" alt="RADHIKA D CHOUGALE's GitHub Stats" />
+  <a href="https://github.com/dradhikac?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="GitHub Achievement: Pull Shark" />
   </a>
-  <a href="https://github.com/dradhikac">
-    <img src="https://streak-stats.demolab.com?user=dradhikac&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="RADHIKA D CHOUGALE's GitHub Streak" />
-  </a>
+  <br />
+  <sub><b>Pull Shark</b></sub>
 </p>
 
 <h2 align="center">Contribution Graph</h2>
