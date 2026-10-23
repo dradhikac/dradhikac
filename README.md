@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/GitHub-EF93C4?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-EF93C4?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-EF93C4?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Postman-EF93C4?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-EF93C4?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
