@@ -119,11 +119,17 @@
 <h2 align="center">GitHub Achievements</h2>
 
 <p align="center">
+  <a href="https://github.com/dradhikac?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="90" alt="GitHub Achievement: Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dradhikac?achievement=yolo&tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="GitHub Achievement: YOLO" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/dradhikac?achievement=pull-shark&tab=achievements">
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="GitHub Achievement: Pull Shark" />
   </a>
-  <br />
-  <sub><b>Pull Shark</b></sub>
 </p>
 
 <h2 align="center">Contribution Graph</h2>
